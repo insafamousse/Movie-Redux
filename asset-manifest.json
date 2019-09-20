@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Movie-Redux/static/css/main.2cce8147.chunk.css",
+    "main.js": "/Movie-Redux/static/js/main.19962dcf.chunk.js",
+    "main.js.map": "/Movie-Redux/static/js/main.19962dcf.chunk.js.map",
+    "runtime~main.js": "/Movie-Redux/static/js/runtime~main.e0072755.js",
+    "runtime~main.js.map": "/Movie-Redux/static/js/runtime~main.e0072755.js.map",
+    "static/js/2.e9c6bb89.chunk.js": "/Movie-Redux/static/js/2.e9c6bb89.chunk.js",
+    "static/js/2.e9c6bb89.chunk.js.map": "/Movie-Redux/static/js/2.e9c6bb89.chunk.js.map",
+    "index.html": "/Movie-Redux/index.html",
+    "precache-manifest.31509e1d31b6a67434201ef9aafe3213.js": "/Movie-Redux/precache-manifest.31509e1d31b6a67434201ef9aafe3213.js",
+    "service-worker.js": "/Movie-Redux/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/Movie-Redux/static/css/main.2cce8147.chunk.css.map",
+    "static/media/Plus.png": "/Movie-Redux/static/media/Plus.1475a81f.png"
+  }
+}
